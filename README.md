@@ -1,2 +1,2 @@
-# practice_exercises
-practice notebooks for AL/ML courses
+# Practice Exercises
+practice notebooks for my AL/ML courses
